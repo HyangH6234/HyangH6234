@@ -1,6 +1,8 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=HyangH6234&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20HyangH6234&fontSize=70)
 <div align= "center">
+    
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
     <div align= "center">  </div> 
